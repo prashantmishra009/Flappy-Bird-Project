@@ -1,1 +1,1 @@
-# Flappy-Bird-Project
+# Flappy-Bird-Game with JavaScript
